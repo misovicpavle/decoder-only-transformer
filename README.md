@@ -7,6 +7,8 @@ The main idea was simple: Train two versions of the same model family and compar
 One version uses character-level tokenization.  
 One version uses subword tokenization with SentencePiece (unigram).
 
+Soon the model will be re-trained on a serbian dataset and will add the Tiktokinizer as well as the new high-abstraction function
+
 Both were trained in Google Colab on a T4 GPU.
 
 ---
